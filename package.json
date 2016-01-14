@@ -1,6 +1,6 @@
 {
   "name": "romantic",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Extract variables from string.",
   "license": "MIT",
   "repository": "egoist/romantic",
